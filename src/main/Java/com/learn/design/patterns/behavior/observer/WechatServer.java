@@ -1,10 +1,10 @@
-package com.learn.design.patterns.observer;
+package com.learn.design.patterns.behavior.observer;
 
 import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @Classname com.learn.design.patterns.observer.WechatServer
+ * @Classname com.learn.design.patterns.behavior.observer.WechatServer
  * @Description 被观察者实现
  * @Date 2020/8/3 0003
  * @Author jingjing.zhang

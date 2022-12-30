@@ -1,9 +1,9 @@
-package com.learn.design.patterns.observer;
+package com.learn.design.patterns.behavior.observer;
 
 import org.junit.Test;
 
 /**
- * @Classname com.learn.design.patterns.observer.ObserverTest
+ * @Classname com.learn.design.patterns.behavior.observer.ObserverTest
  * @Description TODO
  * @Date 2020/8/3 0003
  * @Author jingjing.zhang

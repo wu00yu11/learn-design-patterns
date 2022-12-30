@@ -1,7 +1,7 @@
-package com.learn.design.patterns.observer;
+package com.learn.design.patterns.behavior.observer;
 
 /**
- * @Classname com.learn.design.patterns.observer.Observerable
+ * @Classname com.learn.design.patterns.behavior.observer.Observerable
  * @Description 抽象被观察者接口
  * @Date 2020/8/3 0003
  * @Author jingjing.zhang
